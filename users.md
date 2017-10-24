@@ -501,4 +501,4 @@
 - Name:  Julian Joseph   
   Place: Mumbai, India  
   Bio: Code-loving-writer.  
-  GitHub: [Julian Joseph] (https://github.com/jsj14)
+  GitHub: [Julian Joseph](https://github.com/jsj14)
